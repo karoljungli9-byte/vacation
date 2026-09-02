@@ -237,6 +237,9 @@
     border-style: var(--tw-border-style);
     border-width: 1px;
   }
+  .border-white {
+    border-color: var(--color-white);
+  }
   .bg-\[\#23A6E1\] {
     background-color: #23A6E1;
   }
